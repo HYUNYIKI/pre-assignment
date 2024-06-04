@@ -1,0 +1,1 @@
+cmd_/home/kim/pre-assignment/pre-assignment/kim_pre-assignment.ko := ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/kim/pre-assignment/pre-assignment/kim_pre-assignment.ko /home/kim/pre-assignment/pre-assignment/kim_pre-assignment.o /home/kim/pre-assignment/pre-assignment/kim_pre-assignment.mod.o;  true
