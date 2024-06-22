@@ -1,0 +1,17 @@
+aaaad0bec000-aaaad0bfe000 r-xp 00000000 00:00 0                          /home/kim/pre-assignment/pre-assignment/uftrace/a.out build-id:564abca8706b095b7c8b2ddc658460ddb4230d8c
+ffffa5dc1000-ffffa5de2000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libbz2.so.1.0.4 build-id:2d71c3892e455e340109a30b540e84eb498ea76c
+ffffa5de2000-ffffa5e16000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/liblzma.so.5.2.4 build-id:e48994bfadce1effe2d56380aab58e9278ad2ca5
+ffffa5e16000-ffffa5e40000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libz.so.1.2.11 build-id:fe4b51ff86e7e8bc4c1c9e22488e8a0d32665afe
+ffffa5e42000-ffffa5e66000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libgcc_s.so.1 build-id:6073b01eee703053632c018de3188a5ea36e2b29
+ffffa5e66000-ffffa5f11000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libm-2.31.so build-id:e750473ad00acdf0e8eeb674539e5a8bc12ed865
+ffffa5f11000-ffffa5f3e000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libpthread-2.31.so build-id:77ec3f4eac97eec4597dc9f139763db3fa09b3da
+ffffa5f42000-ffffa61e8000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libcapstone.so.3 build-id:8f928d4b3b13a45e996593a3f10155c6d3f1835e
+ffffa61e8000-ffffa624c000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libdw-0.176.so build-id:6acca2532caf9a0b7d7d07217ceb87096c52688d
+ffffa624e000-ffffa627a000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libelf-0.176.so build-id:e36edd71b4cf5209c06c0a4dd8e15f5e18728b98
+ffffa627a000-ffffa645c000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libstdc++.so.6.0.28 build-id:0c70d79bfc3c4dac8c8f2c5f5f46cc7e574e5051
+ffffa645f000-ffffa6477000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/librt-2.31.so build-id:2a6bc2157b914801f636c78957da9123383fb5b6
+ffffa6477000-ffffa648b000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libdl-2.31.so build-id:384b6e36e7568df77ec89cf36531ea97c592f814
+ffffa648b000-ffffa65fb000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/libc-2.31.so build-id:dbc64109854269eb569f7a496dc85cb1a559ec87
+ffffa65fe000-ffffa6650000 r-xp 00000000 00:00 0                          /usr/local/lib/uftrace/libmcount-fast.so build-id:a1c75254c73b24667890c40527deb8ddd7127529
+ffffa6652000-ffffa6673000 r-xp 00000000 00:00 0                          /usr/lib/aarch64-linux-gnu/ld-2.31.so build-id:6927993b5ea4304ff398d99d28f36476a848ce21
+ffffdd71f000-ffffdd740000 rw-p 00000000 00:00 0                          [stack]

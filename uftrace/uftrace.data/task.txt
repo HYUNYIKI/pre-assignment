@@ -1,0 +1,2 @@
+SESS timestamp=55308.011637124 pid=5871 sid=59bc7dced143e605 exename="/home/kim/pre-assignment/pre-assignment/uftrace/a.out"
+TASK timestamp=55308.011937567 tid=5871 pid=5871
